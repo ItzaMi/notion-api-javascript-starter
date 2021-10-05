@@ -6,7 +6,7 @@ This repo uses an `express` server for its back-end and you can change its specs
 
 ## Running the app
 
-If you would like to run this project, you'll need to create a `.env` file in the root directory and inside you should had your `NotionAPI key` and your `Database ID` like so
+If you would like to run this project, you'll need to create a `.env` file in the root directory and inside it you should add your `NotionAPI key` and your `Database ID` like so
 
 ```
 NOTION_API_KEY = [Here you should insert your key]
